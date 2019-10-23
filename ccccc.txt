@@ -1,0 +1,14 @@
+﻿
+於 Linux Shell 使用 shuf 將檔案依行數「隨機排列」
+Linux 於 Bash shell 的檔案內容，通常經過去掉重複後，通常都是 sort 過的內容，…
+
+2016 年 10 月 28 日
+
+在「My_Note-Unix」中
+
+Bash shell 使用 CURL urlencode 送參數
+Bash shell 想要送中文等需要被 urlencode 過的文字到網址去，要怎麼做呢？ 此篇使…
+
+2017 年 12 月 25 日
+
+在「My_Note-Unix」中
